@@ -1,0 +1,30 @@
+{
+   "data": [
+       {
+        "data_de_lançamento": "21/08/2012",
+        "imagem": "https://th.bing.com/th/id/R13aa5bc8728a72a8f73b9d6eb18e8e8d?rik=JYTnoobnIU6u3Q&pid=ImgRaw",
+        "nome_jogo": "Counter Strike: Global Offensive",
+        "score": "Extremamente positivo"
+       },
+       {
+        "data_de_lançamento": "13/05/2016",
+        "imagem": "https://file-cdn.urcdkeys.com/product/20171026141723_img.jpg",
+        "nome_jogo": "DOOM",
+        "score": "Extremamente positivo"
+       },
+       {
+           "data_de_lançamento":"19/12/2000",
+           "imagem":"https://images2.alphacoders.com/602/602604.jpg",
+           "nome_jogo":"Assassins Creed",
+           "score":"Positivo"
+       },
+       {
+        "data_de_lançamento":"20/03/2018",
+        "imagem":"https://as.com/meristation/imagenes/2019/11/26/noticias/1574749817_053077_1574749898_noticia_normal.jpg",
+        "nome_jogo":"Sea Of Thieves",
+        "score":"Positivo"
+       }
+
+       
+]
+}

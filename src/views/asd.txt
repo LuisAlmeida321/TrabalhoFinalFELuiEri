@@ -1,0 +1,19 @@
+//   export default {
+//     data() {
+//       return {
+//       info:[],
+// //       cards: [
+// //         { title: 'Counter-Strike: Global Offensive', src: 'https://th.bing.com/th/id/R13aa5bc8728a72a8f73b9d6eb18e8e8d?rik=JYTnoobnIU6u3Q&pid=ImgRaw', text: 'Score: Extremamente positivo', data: 'Data de lançamento: 21/08/2012' , flex: 6 },
+// //         { title: 'DOOM', src: 'https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Doom_image1600w.jpg',  text: 'Score: Extremamente positivo', data: 'Data de lançamento: 13/05/2016' , flex: 6 },
+// //         { title: 'Assassins Creed', src: 'https://images2.alphacoders.com/602/602604.jpg', text: 'Score: Positivo', data: 'Data de lançamento: 19/12/2000' , flex: 6 },
+// //         { title: 'Sea Of Thieves', src: 'https://as.com/meristation/imagenes/2019/11/26/noticias/1574749817_053077_1574749898_noticia_normal.jpg', text: 'Score: Positivo', data: 'Data de lançamento: 20/03/2018' , flex: 6 },
+// //       ],
+//     }},
+//     mounted(){
+//     axios
+//      .get("https://blogjogos-86479-default-rtdb.firebaseio.com/.json")
+//      .then(response => (this.info = response.data.data));
+
+  
+  },
+   }
